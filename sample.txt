@@ -1,4 +1,8 @@
 Chào ban lệ!!
 aaa
 eeee
+<<<<<<< HEAD
 fff
+=======
+ggg
+>>>>>>> tv2
